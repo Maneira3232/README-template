@@ -1,4 +1,4 @@
-# test
+# ReadMe
 
 ## Table of Contents:
 
@@ -16,42 +16,42 @@
 
 ## Description: 
 
-test
+generates readme files
 
 ## Installation:
 
-test
+npm install inquierer
 
 ## Usage
 
-test
+creating read me .md files
 
 ## License
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
 
-[![License: GPL v3](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://www.gnu.org/licenses/Apache_2.0)
-
-
-
 ## Contributors
 
-test
+joe
 
 ## Tests
 
-test
+none
 
 ## Questions
 
-test
+debug
 
 ## GitHub Username 
 
-test
+Maneira3232
+
+## GitHub Users Link
+
+https://github.com/Maneira3232
 
 ## Email Info
 
-test
+Jmaneira32@yahoo.com
 
 
