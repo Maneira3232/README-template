@@ -1,4 +1,4 @@
-# ReadMe
+# TeamUp
 
 ## Table of Contents:
 
@@ -16,23 +16,23 @@
 
 ## Description: 
 
-generates readme files
+This App will allow you to create a team web page for you and your team.
 
 ## Installation:
 
-npm install inquierer
+none
 
 ## Usage
 
-creating read me .md files
+building a team and setting up the infor cards
 
 ## License
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache_2.0)
+[![License](https://img.shields.io/badge/License-Open-blue.svg)](https://opensource.org/licenses/Open)
 
 ## Contributors
 
-joe
+Maneira3232
 
 ## Tests
 
@@ -40,7 +40,7 @@ none
 
 ## Questions
 
-debug
+
 
 ## GitHub Username 
 
